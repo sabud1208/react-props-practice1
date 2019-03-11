@@ -11,7 +11,7 @@ class App extends Component {
     <Header  name= "Beyonce" song= "Forward"/>;
     </div>
     <div>
-    <Image url="https://pbs.twimg.com/media/ChxCkRZXAAAznIt.jpg"/>;
+    <Image />;
     </div>
     </div>
 
